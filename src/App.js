@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>
-        Github deployement
+        Github Deployement
       </h1>
     </div>
   );
